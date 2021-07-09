@@ -10,11 +10,11 @@ public class MapExample {
 		samplemap.put(1, 3);
 		samplemap.put(2, 2);
 		samplemap.put(3, 5);
-		samplemap.put(4, 1);
+		samplemap.put(4, 34);
 		//Set<Entry> entries= samplemap.entrySet() ;
 		//for(Entry entry:entries) {
 		System.out.println(samplemap);
 		}
 	}
-
+//Hello am using github
 
